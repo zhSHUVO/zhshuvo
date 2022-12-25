@@ -1,16 +1,15 @@
-### Hi there 👋
+<div align="left">
+<a href="https://app.daily.dev/zhshuvo"><img align="right" src="https://api.daily.dev/devcards/440dde25d30d461e9839b118f1c2da31.png?r=6gc" width="150" alt="Zayed Hassan Bhuiyan's Dev Card"/></a>
+</div>
 
-<!--
-**zhSHUVO/zhshuvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋
 
-Here are some ideas to get you started:
+Zayed Hassan Bhuiyan here. I'm a Web Developer from Bangladesh and I know MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+## Feel free to reach
+
+-   Email : zhshuvo99@gmail.com
+-   LinkedIn : [zhSHUVO](https://github.com/zhSHUVO/)
+-   Portfolio : [Zayed Hassan Bhuiyan](https://zayed-hassan.netlify.app/)
