@@ -1,5 +1,5 @@
 <div align="left">
-<a href="https://app.daily.dev/zhshuvo"><img align="right" src="https://api.daily.dev/devcards/440dde25d30d461e9839b118f1c2da31.png?r=6gc" width="200" alt="Zayed Hassan Bhuiyan's Dev Card"/></a>
+<a href="https://app.daily.dev/zhshuvo"><img align="right" src="https://api.daily.dev/devcards/440dde25d30d461e9839b118f1c2da31.png?r=6gc" width="150" alt="Zayed Hassan Bhuiyan's Dev Card"/></a>
 </div>
 
 ## Hi there 👋
