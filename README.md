@@ -4,10 +4,10 @@
 
 ## Hi there 👋
 
-Zayed Hassan Bhuiyan here. I'm a Web Developer from Bangladesh and I know MERN stack.
+Zayed Hassan Bhuiyan here and I do web development. Check out my repos to get ideas about my work. With a commitment to continuous learning and a strong dedication to creating impactful web applications, I am excited to contribute to the ever-evolving world of web development. 
 
 ## Feel free to reach out
 
--   LinkedIn : [zhshuvo](https://www.linkedin.com/in/zhshuvo/)
+-   LinkedIn : [zayedhassanbhuiyan](https://www.linkedin.com/in/zayedhassanbhuiyan/)
 -   Portfolio : [Zayed Hassan Bhuiyan](https://zayed-hassan.netlify.app/)
 -   Email : zhshuvo99@gmail.com
